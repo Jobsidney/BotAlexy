@@ -15,7 +15,11 @@ export class CHat extends Component {
       }
   render() {
     return (
-      <div>CHat</div>
+      <div>Working example of a chatbot
+
+<p>you can say hello or ask about itself etc</p>
+      </div>
+      
     )
   }
 }

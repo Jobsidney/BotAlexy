@@ -3,9 +3,10 @@ import './App.css';
 import CHat from './component/CHat';
 
 function App() {
+  
   return (
-
-      <CHat/>
+    <div className='App App-header'>
+      <CHat/></div>
 
   );
 }
